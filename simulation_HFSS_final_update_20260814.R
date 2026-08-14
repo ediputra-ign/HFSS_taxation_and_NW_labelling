@@ -12,7 +12,7 @@ IMPACTncd <- Simulation$new("./sim_design_Edi_final.yaml")
 #after running the line above, I got Warning message:
 #file(s) not found in repo "ChristK/IMPACTncd_Engl"
 
-start_runs <- 21
+start_runs <- 1
 n_runs <- 100L
 tax_rate <- 0.08 #change for sensitivity analysis here
 
